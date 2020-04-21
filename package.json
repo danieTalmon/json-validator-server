@@ -1,0 +1,24 @@
+{
+  "name": "jsonValidator-Server",
+  "version": "1.0.0",
+  "description": "server of json-validator web-app",
+  "main": "app.js",
+  "dependencies": {
+    "ajv": "^6.12.0",
+    "axios": "^0.19.2",
+    "djv": "^2.1.3-alpha.0",
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "jsen": "^0.6.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "z-schema": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
